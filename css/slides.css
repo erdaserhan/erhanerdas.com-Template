@@ -5571,6 +5571,7 @@ body {
   fill: #fff !important;
 }
 
+
 .text-social-behance {
   color: #105DFB !important;
 }
@@ -5583,6 +5584,29 @@ body {
   border-color: #105DFB !important;
 }
 .stroke.button.social-behance svg {
+  fill: #105DFB !important;
+}
+
+.social-mail {
+  background: #fff !important;
+  color: #fff !important;
+}
+.social-mail svg {
+  fill: #fff !important;
+}
+
+.text-social-mail {
+  color: #105DFB !important;
+}
+.text-social-mail.button svg {
+  fill: #105DFB !important;
+}
+
+.stroke.button.social-mail {
+  color: #105DFB !important;
+  border-color: #105DFB !important;
+}
+.stroke.button.social-mail svg {
   fill: #105DFB !important;
 }
 
